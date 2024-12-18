@@ -21,5 +21,5 @@ console.log(longNames)
 
 // 3. Rimuovi 'Ed' dall'array teachers
 
-teachers.splice(5,1)
+teachers.splice(1,1)
 console.log(teachers)
